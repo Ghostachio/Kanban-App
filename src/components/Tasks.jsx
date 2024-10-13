@@ -1,7 +1,7 @@
 // import { useParams } from "react-router-dom";
 import { useQuery } from "@tanstack/react-query";
 import { getTodos } from "../utilities/getBoards";
-import Todos from "./todos";
+import Todos from "./Todos";
 import { useParams } from "react-router-dom";
 import CreateTodo from "./CreateTodo";
 
